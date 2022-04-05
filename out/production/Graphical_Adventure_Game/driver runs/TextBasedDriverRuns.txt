@@ -1,0 +1,120 @@
+Run 1 - A run that shows the player navigating through the dungeon, picking up the treasure, picking up arrows, shooting arrows, killing a Otyugh and winning the game by reaching the end cave.
+
+Player name: Sushith.
+You are in a Cave and its doors lead to: North South West 
+You find -> Rubies: 3, Sapphires: 4
+You smell something terrible nearby.
+Move, Pickup, Shoot or Quit (M-P-S-Q)?P
+What (T-A)? T
+You pick up -> Rubies: 3, Sapphires: 4
+Treasures picked up-> Rubies: 3, Sapphires: 4, Diamonds: 0
+Move, Pickup, Shoot or Quit (M-P-S-Q)?M
+Where to (N-S-E-W)? S
+You are in a Cave and its doors lead to: North South West East
+You smell something mild nearby.
+Move, Pickup, Shoot or Quit (M-P-S-Q)?M
+Where to (N-S-E-W)? E
+You are in a Cave and its doors lead to: North South West 
+You find -> Rubies: 2, Sapphires: 1, Diamonds: 2
+You find 3 arrows here.
+Move, Pickup, Shoot or Quit (M-P-S-Q)?P
+What (T-A)? T
+You pick up -> Rubies: 2, Sapphires: 1, Diamonds: 2
+Treasures picked up-> Rubies: 5, Sapphires: 5, Diamonds: 2
+Move, Pickup, Shoot or Quit (M-P-S-Q)?P
+What (T-A)? A
+How many? 3
+3 arrows have been picked up.
+You have 6 arrows with you now.
+Move, Pickup, Shoot or Quit (M-P-S-Q)?M
+Where to (N-S-E-W)? N
+You are in a Tunnel that continues to: South East
+Move, Pickup, Shoot or Quit (M-P-S-Q)?M
+Where to (N-S-E-W)? E
+You are in a Cave and its doors lead to: North South West 
+You smell something mild nearby.
+Move, Pickup, Shoot or Quit (M-P-S-Q)?M
+Where to (N-S-E-W)? N
+You are in a Cave and its doors lead to: North South West 
+You find -> Rubies: 2, Sapphires: 5
+Move, Pickup, Shoot or Quit (M-P-S-Q)?M
+Where to (N-S-E-W)? N
+You are in a Tunnel that continues to: South East
+You smell something mild nearby.
+Move, Pickup, Shoot or Quit (M-P-S-Q)?M
+Where to (N-S-E-W)? E
+You are in a Cave and its doors lead to: South West East
+You smell something terrible nearby.
+Move, Pickup, Shoot or Quit (M-P-S-Q)?S
+No. of caves (1-5)? 1
+In which direction (N-S-E-W)? E
+You shoot an arrow.
+You hear a little howl in the distance.
+You have 5 left now.
+Move, Pickup, Shoot or Quit (M-P-S-Q)?S
+No. of caves (1-5)? 1
+In which direction (N-S-E-W)? E
+You shoot an arrow.
+You hear a great howl in the distance.
+You have 4 left now.
+Move, Pickup, Shoot or Quit (M-P-S-Q)?M
+Where to (N-S-E-W)? E
+You are in a Cave and its doors lead to: North West East
+You find -> Rubies: 5, Sapphires: 4, Diamonds: 2
+You smell something mild nearby.
+Move, Pickup, Shoot or Quit (M-P-S-Q)?P
+What (T-A)? T
+You pick up -> Rubies: 5, Sapphires: 4, Diamonds: 2
+Treasures picked up-> Rubies: 10, Sapphires: 9, Diamonds: 4
+Move, Pickup, Shoot or Quit (M-P-S-Q)?M
+Where to (N-S-E-W)? N
+You are in a Cave and its doors lead to: North South West 
+You find -> Rubies: 5, Sapphires: 1, Diamonds: 2
+You find 1 arrows here.
+You smell something terrible nearby.
+Move, Pickup, Shoot or Quit (M-P-S-Q)?S
+No. of caves (1-5)? 1
+In which direction (N-S-E-W)? W
+You shoot an arrow.
+You hear a little howl in the distance.
+You have 3 left now.
+Move, Pickup, Shoot or Quit (M-P-S-Q)?S
+No. of caves (1-5)? 1
+In which direction (N-S-E-W)? W
+You shoot an arrow.
+You hear a great howl in the distance.
+You have 2 left now.
+Move, Pickup, Shoot or Quit (M-P-S-Q)?M
+Where to (N-S-E-W)? W
+You are in a Cave and its doors lead to: East
+You find 1 arrows here.
+Game Won!!!, player has reached the end.
+Treasures picked up-> Rubies: 10, Sapphires: 9, Diamonds: 4
+
+Run 2 - A run that shows the player being eaten by an Otyugh.
+
+Player name: Sushith.
+You are in a Cave and its doors lead to: East
+You find -> Rubies: 2, Sapphires: 1
+Move, Pickup, Shoot or Quit (M-P-S-Q)?P
+What (T-A)? T
+You pick up -> Rubies: 2, Sapphires: 1
+Treasures picked up-> Rubies: 2, Sapphires: 1, Diamonds: 0
+Move, Pickup, Shoot or Quit (M-P-S-Q)?M
+Where to (N-S-E-W)? E
+You are in a Tunnel that continues to: West East
+You find 2 arrows here.
+You smell something mild nearby.
+Move, Pickup, Shoot or Quit (M-P-S-Q)?P
+What (T-A)? A
+How many? 2
+2 arrows have been picked up.
+You have 5 arrows with you now.
+Move, Pickup, Shoot or Quit (M-P-S-Q)?M
+Where to (N-S-E-W)? E
+You are in a Cave and its doors lead to: North South West East
+You smell something terrible nearby.
+Move, Pickup, Shoot or Quit (M-P-S-Q)?M
+Where to (N-S-E-W)? S
+Chomp, chomp, you are eaten by an Otyugh!
+Better luck next time.
